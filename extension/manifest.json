@@ -1,0 +1,9 @@
+{
+    "name": "New Tab page button",
+    "version": "0.1",
+    "browser_action": {
+        "default_title": "Navigate to New Tab page",
+        "default_icon": "icon.png"
+    },
+    "background_page": "background.html"
+}
